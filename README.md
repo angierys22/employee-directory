@@ -2,8 +2,8 @@ Employee Directory
 
 ## Deployed Site
  
-
-![](https://github.com/Doseofcarlos/co-employee-directory)
+https://ar-employee-directory.herokuapp.com
+https://github.com/angierys22/employee-directory
 
 ## Overview
 
